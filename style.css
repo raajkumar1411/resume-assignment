@@ -72,3 +72,16 @@ body{
 h3{
     text-decoration: underline;
 }
+
+.main{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius:15px;
+    background-color: rgb(33, 0, 71);
+    width:700px;
+    align-self: center;
+    margin-left: 400px;
+}
